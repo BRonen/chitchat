@@ -1,1 +1,10 @@
 * Chitchat
+WIP
+
+** Backend
+*** [ ] add support to direct message send
+*** [ ] add server side events message streaming
+*** [ ] add support to groups
+
+** Frontend
+*** [ ] ...
